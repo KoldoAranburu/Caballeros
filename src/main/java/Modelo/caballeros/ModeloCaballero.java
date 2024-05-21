@@ -39,7 +39,7 @@ public class ModeloCaballero {
 			while (rst.next()) {
 				/*CREAR LOS CABALLEROS*/
 				Caballero caballeross = new Caballero();
-				 
+				  
 				/*ATRIBUTOS DEL CABALLERO*/
 				caballeross.setId(rst.getInt("id"));
 				caballeross.setNombre(rst.getString("nombre"));
