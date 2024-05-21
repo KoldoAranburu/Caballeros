@@ -1,4 +1,4 @@
-package Controlador.conector;
+package Modelo.conector;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

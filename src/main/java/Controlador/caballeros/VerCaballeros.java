@@ -9,9 +9,9 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import Controlador.conector.Conector;
 import Modelo.caballeros.Caballero;
 import Modelo.caballeros.ModeloCaballero;
+import Modelo.conector.Conector;
 
 /**
  * Servlet implementation class VerCaballeros

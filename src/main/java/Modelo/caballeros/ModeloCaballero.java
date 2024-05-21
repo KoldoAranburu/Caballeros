@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 import com.mysql.cj.protocol.Resultset;
 
-import Controlador.conector.Conector;
+import Modelo.conector.Conector;
 
 public class ModeloCaballero {
 	
